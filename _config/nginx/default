@@ -1,0 +1,9 @@
+server {
+		listen       80;
+
+		server_name vagrantnginx.com;
+
+		location / {
+			root /vagrant/server/vagrantnginx.com;
+		}
+}

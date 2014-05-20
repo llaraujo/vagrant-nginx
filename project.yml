@@ -1,0 +1,10 @@
+
+box: 'precise64'
+
+box_url: 'http://files.vagrantup.com/precise64.box'
+
+machine_memory: '800'
+
+machine_alias: 'vagrantnginx'
+machine_hostname: 'vagrantnginx.com'
+machine_ip: '11.11.11.11'
